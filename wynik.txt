@@ -1,0 +1,6 @@
+Znaleziono zmutowany gen w sekwencji: |AAEBADCCADBEEDEEDBCDDCECADCDCCCADECEEAB|
+Znaleziono zmutowany gen w sekwencji: |AAEDECBCDDCBAB|
+Znaleziono zmutowany gen w sekwencji: |AADBDACDDBDCCBDCEACDECCBCDDCDBEBCEEEABCDEAEEBCCDBA|
+Znaleziono zmutowany gen w sekwencji: |AABCDDCDAB|
+Znaleziono zmutowany gen w sekwencji: |AAEEEABCCAEAEDBDDBAEDEBEECDEAECBDBEBCDDCBE|
+Znalezionych ogółem 5
